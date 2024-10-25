@@ -2,3 +2,10 @@
   width: 300px;
   margin-top: 50px;
 }
+
+.percent {
+  margin-top: 30px;
+  font-size: 30px;
+  display: flex;
+  justify-content: center;
+}

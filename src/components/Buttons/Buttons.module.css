@@ -1,6 +1,10 @@
 .buttons {
   margin-top: 50px;
   display: flex;
-  justify-content: center;
-  gap: 0px 100px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.percent {
+  width: 60px;
 }
