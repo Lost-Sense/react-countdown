@@ -1,0 +1,10 @@
+.countDown {
+  font-size: 60px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+input {
+  text-align: center;
+}
